@@ -1,0 +1,24 @@
+package controller;
+
+import java.awt.event.ActionEvent;
+
+import javax.swing.AbstractAction;
+
+public class IzmeniRadniProstorAction extends AbstractAction{
+
+	
+	public DodajDokumentAction() {
+		// TODO Auto-generated constructor stub
+		putValue(NAME, "Izmeni radni prostor" );
+		
+		
+	}
+	
+	@Override
+	public void actionPerformed(ActionEvent arg0) {
+		
+		
+		
+	}
+
+}

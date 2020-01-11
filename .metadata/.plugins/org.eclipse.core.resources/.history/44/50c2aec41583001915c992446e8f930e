@@ -1,0 +1,7 @@
+package controller;
+
+import javax.swing.AbstractAction;
+
+public class IzmeniRadniProstorAction extends AbstractAction{
+
+}
